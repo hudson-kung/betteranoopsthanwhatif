@@ -51,7 +51,7 @@ header[data-testid="stHeader"] {
 st.markdown(
     """
     <div class="sticky-nav">
-        <a href="#shop">Shop</a>
+        <a href="https://betteranoopsshop.streamlit.app/" target="_blank">Shop</a>
     </div>
     """,
     unsafe_allow_html=True
@@ -151,4 +151,5 @@ st.markdown("""
     <a href="https://www.instagram.com/carrrieon/" target="_blank">Instagram</a>
     <span>&nbsp;&nbsp;Designed with Curiosity</span>
 </div>
+""", unsafe_allow_html=True)
 """, unsafe_allow_html=True)
