@@ -152,4 +152,3 @@ st.markdown("""
     <span>&nbsp;&nbsp;Designed with Curiosity</span>
 </div>
 """, unsafe_allow_html=True)
-""", unsafe_allow_html=True)
